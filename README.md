@@ -1,4 +1,4 @@
-# JavaSpringBootStarterWebApi
+# SpringbootPostgresqlStarter
 
 Java spring boot project,
 Web api starter pack.
@@ -12,4 +12,3 @@ in this repo you will find
 
 then you will see a link to a desired database (postgres in this case) but can be changed to 
 any database of your choice through DI.
-
